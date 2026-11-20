@@ -1,0 +1,53 @@
+================================================================================
+GOVERNMENT OF INDIA COPYRIGHT E-FILING GUIDE (PORTAL: copyright.gov.in)
+WORK TITLE: Insurance Claim Fraud Detection using Ensemble Learning
+CLASS: Computer Software Work
+================================================================================
+
+--- STEP 2: STATEMENT OF PARTICULARS (Your current screen) ---
+1. Field 6 (Language of the Work *):
+   Enter: Python, TypeScript, SQL, HTML, CSS, JavaScript (React.js, FastAPI)
+   [Note: 'Python, TypeScript, SQL, HTML, CSS, JavaScript' as in your screenshot is 100% accepted!]
+
+2. Row 7 (Name, address and nationality of the author *):
+   - Check the box 'Same as Applicant / आवेदक के समान' at top right of Row 7 (adds Sarvesh Sudhir Kulkarni).
+   - Click 'Add More' on Row 7 to add the other 3 co-authors:
+     * Author 2: Chaitanya Rajesh Kopalwar, Vijay Nagar, Ganesh Nagar, Nanded, 431601, Maharashtra
+     * Author 3: PRANAV PRASHANT KULKARNI, Near Swayamwar Mangal Karyalay, Radhika Nagar, Malegaon Road, Nanded, 431605
+     * Author 4: CHANDRASHEKHAR PRADIP KALYAN, Near MF Honda Showroom, Gaganpura, Nanded, 431601, Maharashtra
+
+3. Row 8 (Whether work is Published or unpublished?):
+   - Select 'Unpublished'
+
+4. Row 11 (Names and addresses of owners):
+   - All 4 are already present.
+
+5. Row 12 (Other authorized persons):
+   - Select 'Not Applicable'
+
+6. Row 17 (Remarks, if any):
+   - Enter: Academic Major Project Computer Software Code and System Architecture
+
+7. Click the green button 'Save and Next ->'
+
+--- STEP 3: STATEMENT OF FURTHER PARTICULARS (SoFP) ---
+1. Is the work original? -> Select YES
+2. Does the work infringe any existing copyright? -> Select NO
+3. Is it a computer software / program? -> Select YES
+4. Click 'Save and Next ->'
+
+--- STEP 4: DOCUMENT UPLOAD (The main files to upload) ---
+1. Under 'Work / Source Code Upload':
+   UPLOAD FILE: '01_PRIMARY_WORK_SOURCE_CODE_DEPOSIT.pdf' (Located in this folder, 246 KB)
+2. Under 'NOC / Authorization Document' (if requested):
+   UPLOAD FILE: '02_NOC_AND_JOINT_AUTHORSHIP_DECLARATION.pdf' (Located in this folder)
+3. Click 'Save and Next ->'
+
+--- STEP 5: E-SIGN FORM XIV ---
+- Review the generated Form XIV preview.
+- Complete Aadhaar OTP or digital e-sign as prompted.
+
+--- STEP 6: PAYMENT DETAILS ---
+- Pay statutory Government Fee: Rs. 500 via Bharatkosh / Net Banking / UPI.
+- Instantly download and save your Diary Number acknowledgment receipt (e.g., XXXXX/2026-CO).
+================================================================================

@@ -1,0 +1,16 @@
+# Exclude secrets and credentials
+.env
+.env.*
+*.env
+*.csv
+New folder/
+scratch/
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
